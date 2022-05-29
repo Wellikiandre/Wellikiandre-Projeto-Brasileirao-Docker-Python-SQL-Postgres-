@@ -1,0 +1,7 @@
+.venv/*
+#Rascunho
+resumo.txt
+#Código dos projetos
+projeto/*
+#Dados
+dados/*
