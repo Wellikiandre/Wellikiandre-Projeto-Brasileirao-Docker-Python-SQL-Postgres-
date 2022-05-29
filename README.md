@@ -37,3 +37,14 @@ Exemplo:
 docker stop 99bf08d2ef8a
 ```
 
+### Subir o Docker Compose desacoplando do terminal (Arquivo docker-compose.yml)
+```
+docker-compose up -d db
+```
+
+### Derrubar Docker Compose
+```
+docker-compose down
+```
+
+
