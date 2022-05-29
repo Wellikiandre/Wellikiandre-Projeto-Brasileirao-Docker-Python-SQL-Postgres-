@@ -13,7 +13,27 @@
 ## Docker
 
 ### Criar imagem docker 
+##### **O ponto no final do comando fara utilização do DockerFile**
 ```
 docker build -t web_apache .
+```
+
+### Subir imagem docker desacoplando do Terminal
+```
+docker run -d -p 80:80 web_apache
+```
+
+### Listar as imagens
+```
+docker ps
+```
+
+### Caso queira derrubar a imagem 
+```
+docker stop "passar o contaner id do comando listar imagens"
+
+Exemplo:
+
+docker stop 99bf08d2ef8a
 ```
 
