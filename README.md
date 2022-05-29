@@ -1,5 +1,11 @@
 
 ## Apresentação no arquivo .ppt em anexo, projeto executado durante os dias 21 e 21 de maio de 2022.
+
+### Depências do Projeto no Aquivo 
+```
+requirements.txt
+```
+
 ### Ferramentas abaixo:
 
 - [x] Controle de Verão Git, GitHub.
