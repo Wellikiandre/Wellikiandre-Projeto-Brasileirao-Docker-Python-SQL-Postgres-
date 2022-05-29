@@ -6,7 +6,7 @@
 requirements.txt
 ```
 
-### Ferramentas abaixo:
+### Ferramentas:
 
 - [x] Controle de Verão Git, GitHub.
 - [x] Dbeaver como conector ao Postgres.
@@ -53,4 +53,12 @@ docker-compose up -d db
 docker-compose down
 ```
 
+### Etapa de subir o codigo do projeto
+```
+Coloquei está parte no ignore por motivos de mercado
+```
 
+### Acessar Metabase BI
+```
+localhost:3000
+```
